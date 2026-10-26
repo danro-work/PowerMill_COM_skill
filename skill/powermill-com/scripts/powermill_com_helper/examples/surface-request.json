@@ -1,0 +1,255 @@
+{
+  "example_only": true,
+  "template": {
+    "schema": 1,
+    "guard": {
+      "version": 2023000,
+      "process_id": 1234,
+      "model_ids": [
+        "MODEL"
+      ],
+      "project_path": ""
+    },
+    "name": "SURFACE_TEMPLATE",
+    "entity_id": "TEMPLATE-ID",
+    "captured_at": "2026-10-21T06:35:38.625482+00:00",
+    "settings_xml": "<toolpath><Strategy>surface_machine</Strategy><Computed>1</Computed><Stepover>0.6</Stepover><Thickness>0.1</Thickness><Tolerance>0.1</Tolerance><ProjectionPatternDirection>u</ProjectionPatternDirection><ProjectionSurfaceUnits>distance</ProjectionSurfaceUnits><PatternStyle>one_way</PatternStyle><StartCorner>umin_vmax</StartCorner><SurfaceSide>outside</SurfaceSide><Spiral>0</Spiral><ToolAxis><Type>lead_lean</Type><LeadLeanMode>contact_normal</LeadLeanMode><Lead>0</Lead><Lean>90.1</Lean></ToolAxis><Connections><MoveStartPoints>1</MoveStartPoints></Connections><Tool><Name>Laser</Name></Tool></toolpath>",
+    "settings_hash": "f274f4174e5a3852b8634297bb84c0b001f37cde44df4b02c16990e41bbaa36a",
+    "parameters": {
+      "Stepover": "0.6",
+      "Thickness": "0.1",
+      "Tolerance": "0.1",
+      "ProjectionPatternDirection": "u",
+      "ProjectionSurfaceUnits": "distance",
+      "PatternStyle": "one_way",
+      "StartCorner": "umin_vmax",
+      "SurfaceSide": "outside",
+      "Spiral": "0",
+      "ToolAxis.Type": "lead_lean",
+      "ToolAxis.LeadLeanMode": "contact_normal",
+      "ToolAxis.Lead": "0",
+      "ToolAxis.Lean": "90.1",
+      "Connections.MoveStartPoints": "1"
+    },
+    "folder": "Toolpath\\Prepared\\SURFACE_TEMPLATE",
+    "selection": [
+      {
+        "kind": "default",
+        "index": 0,
+        "members": []
+      },
+      {
+        "kind": "default",
+        "index": 1,
+        "members": []
+      },
+      {
+        "kind": "default",
+        "index": 2,
+        "members": []
+      },
+      {
+        "kind": "default",
+        "index": 3,
+        "members": []
+      },
+      {
+        "kind": "default",
+        "index": 4,
+        "members": []
+      },
+      {
+        "kind": "default",
+        "index": 5,
+        "members": []
+      },
+      {
+        "kind": "default",
+        "index": 6,
+        "members": []
+      },
+      {
+        "kind": "default",
+        "index": 7,
+        "members": []
+      },
+      {
+        "kind": "default",
+        "index": 8,
+        "members": []
+      },
+      {
+        "kind": "default",
+        "index": 9,
+        "members": []
+      },
+      {
+        "kind": "default",
+        "index": 10,
+        "members": []
+      },
+      {
+        "kind": "default",
+        "index": 11,
+        "members": []
+      },
+      {
+        "kind": "default",
+        "index": 12,
+        "members": []
+      },
+      {
+        "kind": "default",
+        "index": 13,
+        "members": []
+      },
+      {
+        "kind": "default",
+        "index": 14,
+        "members": []
+      },
+      {
+        "kind": "default",
+        "index": 15,
+        "members": []
+      },
+      {
+        "kind": "default",
+        "index": 16,
+        "members": []
+      },
+      {
+        "kind": "default",
+        "index": 17,
+        "members": []
+      },
+      {
+        "kind": "surfaces",
+        "index": 0,
+        "members": []
+      },
+      {
+        "kind": "surfaces",
+        "index": 1,
+        "members": [
+          {
+            "model": "DemoModel",
+            "name": "SurfaceA"
+          }
+        ]
+      },
+      {
+        "kind": "surfaces",
+        "index": 2,
+        "members": []
+      },
+      {
+        "kind": "surfaces",
+        "index": 3,
+        "members": []
+      },
+      {
+        "kind": "surfaces",
+        "index": 4,
+        "members": []
+      },
+      {
+        "kind": "surfaces",
+        "index": 5,
+        "members": []
+      },
+      {
+        "kind": "surfaces",
+        "index": 6,
+        "members": []
+      },
+      {
+        "kind": "surfaces",
+        "index": 7,
+        "members": []
+      },
+      {
+        "kind": "surfaces",
+        "index": 8,
+        "members": []
+      },
+      {
+        "kind": "surfaces",
+        "index": 9,
+        "members": []
+      },
+      {
+        "kind": "surfaces",
+        "index": 10,
+        "members": []
+      },
+      {
+        "kind": "surfaces",
+        "index": 11,
+        "members": []
+      },
+      {
+        "kind": "surfaces",
+        "index": 12,
+        "members": []
+      },
+      {
+        "kind": "surfaces",
+        "index": 13,
+        "members": []
+      },
+      {
+        "kind": "surfaces",
+        "index": 14,
+        "members": []
+      },
+      {
+        "kind": "surfaces",
+        "index": 15,
+        "members": []
+      },
+      {
+        "kind": "surfaces",
+        "index": 16,
+        "members": []
+      },
+      {
+        "kind": "surfaces",
+        "index": 17,
+        "members": []
+      }
+    ],
+    "read_only": true
+  },
+  "target": "SURFACE_TRIAL_COPY",
+  "folder": "Toolpath\\SurfaceTrial",
+  "create_folder": true,
+  "parameters": {
+    "Stepover": 0.6,
+    "Thickness": 0.1,
+    "Tolerance": 0.1,
+    "ProjectionPatternDirection": "u",
+    "ProjectionSurfaceUnits": "distance",
+    "PatternStyle": "one_way",
+    "StartCorner": "umin_vmax",
+    "SurfaceSide": "outside",
+    "Spiral": 0,
+    "ToolAxis.Type": "lead_lean",
+    "ToolAxis.LeadLeanMode": "contact_normal",
+    "ToolAxis.Lead": 0,
+    "ToolAxis.Lean": 90.1,
+    "Connections.MoveStartPoints": 1
+  },
+  "axis_contract": {
+    "center_xy": [
+      0,
+      0
+    ],
+    "min_radial_dot": 0.05,
+    "require_full": true,
+    "max_full_points": 10000,
+    "max_full_passes": 100
+  },
+  "calculate_timeout_s": 180,
+  "trust_macros": false
+}

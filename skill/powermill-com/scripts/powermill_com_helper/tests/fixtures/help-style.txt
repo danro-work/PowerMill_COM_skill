@@ -1,0 +1,14 @@
+
+
+Commands available :
+
+	FORM
+	GUI
+	NEW
+	NL
+	SERIES
+	SPLITTER
+	TOGGLE
+	TOGGLE_SERIES
+	<fworkdcp>		"DCP команды, HELP, MACRO, TRACE, PATH"
+	<fworkprint>		"Команды печати, PRINT ..."

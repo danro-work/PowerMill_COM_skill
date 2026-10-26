@@ -1,0 +1,4 @@
+interface:
+  display_name: "PowerMill: прямой COM"
+  short_description: "Траектории и поинт-параметры через прямой COM"
+  default_prompt: "Используй $powermill-com для работы с открытым PowerMill через прямой COM в пределах моего задания."
